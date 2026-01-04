@@ -40,4 +40,8 @@ Daily LeetCode practice activity tracker for year 2026
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
