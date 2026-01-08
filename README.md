@@ -53,6 +53,7 @@ Daily LeetCode practice activity tracker for year 2026
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
@@ -63,6 +64,7 @@ Daily LeetCode practice activity tracker for year 2026
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0062-unique-paths) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,4 +102,8 @@ Daily LeetCode practice activity tracker for year 2026
 | ------- |
 | [0139-word-break](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
