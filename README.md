@@ -16,6 +16,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0088-merge-sorted-array](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0152-maximum-product-subarray) |
 | [0399-evaluate-division](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0399-evaluate-division) |
 ## Two Pointers
@@ -32,11 +33,13 @@ Daily LeetCode practice activity tracker for year 2026
 | ------- |
 | [0079-word-search](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
 | [0399-evaluate-division](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0399-evaluate-division) |
 ## Backtracking
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0079-word-search) |
+| [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -52,6 +55,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0053-maximum-subarray](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0152-maximum-product-subarray) |
 | [1387-sort-integers-by-the-power-value](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1387-sort-integers-by-the-power-value) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -68,6 +72,7 @@ Daily LeetCode practice activity tracker for year 2026
 | ------- |
 | [0001-two-sum](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -88,9 +93,11 @@ Daily LeetCode practice activity tracker for year 2026
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
 | [1387-sort-integers-by-the-power-value](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1387-sort-integers-by-the-power-value) |
 ## Trie
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
