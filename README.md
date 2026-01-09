@@ -23,6 +23,7 @@ Daily LeetCode practice activity tracker for year 2026
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -32,6 +33,7 @@ Daily LeetCode practice activity tracker for year 2026
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0005-longest-palindromic-substring) |
 | [0079-word-search](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
@@ -54,6 +56,7 @@ Daily LeetCode practice activity tracker for year 2026
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0063-unique-paths-ii) |
