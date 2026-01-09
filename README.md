@@ -20,6 +20,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0152-maximum-product-subarray) |
 | [0399-evaluate-division](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0399-evaluate-division) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0152-maximum-product-subarray](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0152-maximum-product-subarray) |
 | [1387-sort-integers-by-the-power-value](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1387-sort-integers-by-the-power-value) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Math
 |  |
 | ------- |
