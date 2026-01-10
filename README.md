@@ -21,6 +21,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0152-maximum-product-subarray](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0213-house-robber-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0399-evaluate-division) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Two Pointers
@@ -79,6 +80,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0007-reverse-integer](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0070-climbing-stairs) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -89,6 +91,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0001-two-sum](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0380-insert-delete-getrandom-o1) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -121,4 +124,12 @@ Daily LeetCode practice activity tracker for year 2026
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
