@@ -29,6 +29,7 @@ Daily LeetCode practice activity tracker for year 2026
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0005-longest-palindromic-substring) |
+| [0061-rotate-list](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -141,6 +142,7 @@ Daily LeetCode practice activity tracker for year 2026
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0061-rotate-list) |
 | [0445-add-two-numbers-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0445-add-two-numbers-ii) |
 ## Stack
 |  |
