@@ -24,6 +24,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0380-insert-delete-getrandom-o1](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0399-evaluate-division) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,4 +133,8 @@ Daily LeetCode practice activity tracker for year 2026
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0380-insert-delete-getrandom-o1) |
+## Binary Search
+|  |
+| ------- |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 <!---LeetCode Topics End-->
