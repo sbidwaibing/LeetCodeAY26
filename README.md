@@ -29,6 +29,7 @@ Daily LeetCode practice activity tracker for year 2026
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0088-merge-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0876-middle-of-the-linked-list) |
@@ -145,6 +146,7 @@ Daily LeetCode practice activity tracker for year 2026
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0061-rotate-list) |
 | [0445-add-two-numbers-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0876-middle-of-the-linked-list) |
