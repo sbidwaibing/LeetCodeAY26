@@ -82,6 +82,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0062-unique-paths](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0380-insert-delete-getrandom-o1) |
+| [0445-add-two-numbers-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0445-add-two-numbers-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -137,4 +138,12 @@ Daily LeetCode practice activity tracker for year 2026
 |  |
 | ------- |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+## Linked List
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0445-add-two-numbers-ii) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
