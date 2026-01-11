@@ -84,6 +84,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0070-climbing-stairs](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0445-add-two-numbers-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Daily LeetCode practice activity tracker for year 2026
 | ------- |
 | [0061-rotate-list](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0061-rotate-list) |
 | [0445-add-two-numbers-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0445-add-two-numbers-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
 |  |
 | ------- |
