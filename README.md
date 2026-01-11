@@ -21,6 +21,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0152-maximum-product-subarray](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0213-house-robber-ii) |
+| [0219-contains-duplicate-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0399-evaluate-division) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -98,6 +99,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0001-two-sum](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
+| [0219-contains-duplicate-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0380-insert-delete-getrandom-o1) |
 ## Breadth-First Search
 |  |
@@ -161,4 +163,8 @@ Daily LeetCode practice activity tracker for year 2026
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0203-remove-linked-list-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
