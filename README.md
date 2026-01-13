@@ -48,6 +48,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0139-word-break](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
 | [0399-evaluate-division](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0399-evaluate-division) |
+| [0676-implement-magic-dictionary](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0676-implement-magic-dictionary) |
 ## Backtracking
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Daily LeetCode practice activity tracker for year 2026
 | ------- |
 | [0079-word-search](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0079-word-search) |
 | [0399-evaluate-division](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0399-evaluate-division) |
+| [0676-implement-magic-dictionary](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0676-implement-magic-dictionary) |
 ## Matrix
 |  |
 | ------- |
@@ -101,6 +103,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
 | [0219-contains-duplicate-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0380-insert-delete-getrandom-o1) |
+| [0676-implement-magic-dictionary](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0676-implement-magic-dictionary) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -129,6 +132,7 @@ Daily LeetCode practice activity tracker for year 2026
 | ------- |
 | [0139-word-break](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
+| [0676-implement-magic-dictionary](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0676-implement-magic-dictionary) |
 ## Combinatorics
 |  |
 | ------- |
@@ -137,6 +141,7 @@ Daily LeetCode practice activity tracker for year 2026
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0380-insert-delete-getrandom-o1) |
+| [0676-implement-magic-dictionary](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0676-implement-magic-dictionary) |
 ## Randomized
 |  |
 | ------- |
