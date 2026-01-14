@@ -24,6 +24,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0219-contains-duplicate-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0399-evaluate-division) |
+| [0840-magic-squares-in-grid](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0840-magic-squares-in-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Two Pointers
@@ -65,6 +66,7 @@ Daily LeetCode practice activity tracker for year 2026
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0079-word-search) |
+| [0840-magic-squares-in-grid](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0840-magic-squares-in-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0070-climbing-stairs](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0445-add-two-numbers-ii) |
+| [0840-magic-squares-in-grid](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0840-magic-squares-in-grid) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
 |  |
@@ -104,6 +107,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0219-contains-duplicate-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0380-insert-delete-getrandom-o1) |
 | [0676-implement-magic-dictionary](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0676-implement-magic-dictionary) |
+| [0840-magic-squares-in-grid](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0840-magic-squares-in-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
