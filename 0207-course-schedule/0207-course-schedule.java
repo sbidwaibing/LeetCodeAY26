@@ -49,8 +49,8 @@ class Solution {
                 return false;
             }
         }
-        
-        System.out.println(index);
+
+        // System.out.println(index);
         visited[index] = 2;
         return true;
     }
