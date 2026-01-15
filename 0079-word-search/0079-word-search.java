@@ -1,52 +1,84 @@
 class Solution {
     
-    boolean visited[][];
+    private int idx(char ch){
+        if(ch >= 'A' && ch <= 'Z'){
+            return ch - 'A';
+        }
+        else{
+            return 26 + (ch - 'a');
+        }
+    }
+
+    private static int[][] DIRECTIONS = {{0,1},{1,0},{0,-1},{-1,0}};
 
     public boolean exist(char[][] board, String word) {
+        
         int rows = board.length;
-        int columns = board[0].length;
+        int cols = board[0].length;
 
-        visited = new boolean[rows][columns];
+        int[] gridFreq = new int[52];
+        int[] wordFreq = new int[52];
 
         for(int i=0; i<rows; i++){
-            for(int j=0; j<columns; j++){
-                if(word.charAt(0) == board[i][j] && wordSearch(i, j, 0, word, board)) return true;
+            for(int j=0; j<cols; j++){
+                gridFreq[idx(board[i][j])]++;
             }
         }
+
+        for(char ch : word.toCharArray()){
+            wordFreq[idx(ch)]++;
+        }
+
+        for(int i=0; i<52; i++){
+            if(wordFreq[i] > gridFreq[i]){
+                return false;
+            }
+        }
+
+        boolean[][] visited = new boolean[rows][cols];
+
+        char firstSearch = word.charAt(0);
+
+        for(int i = 0; i<rows; i++){
+            for(int j = 0; j<cols; j++){
+                if(board[i][j] == firstSearch){
+                    if((board[i][j] == firstSearch) && (dfsFuncX(board, word, visited, i, j, 0))){
+                        return true;
+                    }
+                }
+            }
+        }
+
         return false;
     }
 
-    private static final int[][] DIRS = {
-        {0, 1},   // right
-        {1, 0},   // down
-        {0, -1},  // left
-        {-1, 0}   // up
-    };
-
-    private boolean wordSearch(int i, int j, int index, String word, char[][] board){
-
-        if(index == word.length()) return true;
-        if(
-            i < 0 || j < 0 || 
-            i>= board.length || 
-            j>= board[0].length || 
-            word.charAt(index) != board[i][j] || 
-            visited[i][j]){
-            return false;
+    private boolean dfsFuncX(char[][] board, String word, boolean[][] visited, int row, int col, int index){
+        if(index == word.length()){
+            return true;
         }
 
-        visited[i][j] = true;
-        
-        for(int[] dir : DIRS){
-            int newRow = i + dir[0];
-            int newColumn = j + dir[1];
+        if(row < 0 || row >= board.length || 
+            col < 0 || col >= board[0].length || 
+            visited[row][col] || 
+            board[row][col] != word.charAt(index)){
+                return false;
+            }
 
-            if(wordSearch(newRow, newColumn, index + 1, word, board)){
-                return true;
+        visited[row][col] = true;
+        boolean found = false;
+        
+        for(int[] d : DIRECTIONS){
+            
+            int newRow = row + d[0];
+            int newCol = col + d[1];
+            
+            if(dfsFuncX(board, word, visited, newRow, newCol, index + 1)){
+                found = true;
+                break;
             }
         }
-        
-        visited[i][j] = false;
-        return false;
+
+        visited[row][col] = false;;
+        return found;
     }
 }
