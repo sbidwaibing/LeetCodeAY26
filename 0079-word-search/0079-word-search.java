@@ -41,10 +41,8 @@ class Solution {
 
         for(int i = 0; i<rows; i++){
             for(int j = 0; j<cols; j++){
-                if(board[i][j] == firstSearch){
-                    if((board[i][j] == firstSearch) && (dfsFuncX(board, word, visited, i, j, 0))){
-                        return true;
-                    }
+                if((board[i][j] == firstSearch) && (dfsFuncX(board, word, visited, i, j, 0))){
+                    return true;
                 }
             }
         }
