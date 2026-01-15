@@ -52,7 +52,13 @@ class Solution {
         return false;
     }
 
-    private boolean dfsFuncX(char[][] board, String word, boolean[][] visited, int row, int col, int index){
+    private boolean dfsFuncX(char[][] board, 
+                                String word, 
+                                boolean[][] visited, 
+                                int row, 
+                                int col, 
+                                int index)
+    {
         if(index == word.length()){
             return true;
         }
