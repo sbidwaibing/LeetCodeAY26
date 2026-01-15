@@ -14,7 +14,7 @@ class Solution {
         }
 
         for(int i=0; i<adj.size(); i++){
-            if(!FuncX(adj, visited, i, numCourses)){
+            if(!FuncX(adj, visited, i)){
                 return false;
             }
         }
@@ -30,7 +30,7 @@ class Solution {
         return (x == numCourses);
     }
 
-    private boolean FuncX(List<List<Integer>> adj, int[] visited, int index, int numCourses){
+    private boolean FuncX(List<List<Integer>> adj, int[] visited, int index){
 
         if(visited[index] == 2){ 
             return true;
@@ -45,12 +45,11 @@ class Solution {
         List<Integer> req = adj.get(index);
 
         for(int i=0; i<req.size(); i++){
-            if(!FuncX(adj, visited, req.get(i), numCourses)){
+            if(!FuncX(adj, visited, req.get(i))){
                 return false;
             }
         }
 
-        // System.out.println(index);
         visited[index] = 2;
         return true;
     }
