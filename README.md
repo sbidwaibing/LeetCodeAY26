@@ -59,6 +59,7 @@ Daily LeetCode practice activity tracker for year 2026
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0079-word-search) |
+| [0207-course-schedule](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0399-evaluate-division) |
 | [0676-implement-magic-dictionary](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0676-implement-magic-dictionary) |
 ## Matrix
@@ -111,6 +112,7 @@ Daily LeetCode practice activity tracker for year 2026
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0399-evaluate-division) |
 ## Union Find
 |  |
@@ -119,6 +121,7 @@ Daily LeetCode practice activity tracker for year 2026
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0399-evaluate-division) |
 ## Shortest Path
 |  |
@@ -176,4 +179,8 @@ Daily LeetCode practice activity tracker for year 2026
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0219-contains-duplicate-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
