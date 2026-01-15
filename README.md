@@ -45,6 +45,7 @@ Daily LeetCode practice activity tracker for year 2026
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
@@ -170,6 +171,7 @@ Daily LeetCode practice activity tracker for year 2026
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
