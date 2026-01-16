@@ -51,6 +51,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0079-word-search](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
+| [0205-isomorphic-strings](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0205-isomorphic-strings) |
 | [0399-evaluate-division](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0399-evaluate-division) |
 | [0676-implement-magic-dictionary](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0676-implement-magic-dictionary) |
 | [1169-invalid-transactions](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1169-invalid-transactions) |
@@ -109,6 +110,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0001-two-sum](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
+| [0205-isomorphic-strings](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0380-insert-delete-getrandom-o1) |
 | [0676-implement-magic-dictionary](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0676-implement-magic-dictionary) |
