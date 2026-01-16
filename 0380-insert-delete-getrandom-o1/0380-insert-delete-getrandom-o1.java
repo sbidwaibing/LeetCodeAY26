@@ -1,35 +1,37 @@
 class RandomizedSet {
 
-    private List<Integer> list;
-    private Map<Integer, Integer> mp;
+    List<Integer> newList;
+    Map<Integer, Integer> mp;
 
     public RandomizedSet() {
-        list = new ArrayList<>();
+        newList = new ArrayList<>();
         mp = new HashMap<>();
     }
     
     public boolean insert(int val) {
+        int index = 0;
+        
         if(mp.containsKey(val)){
             return false;
-            // System.out.println("Value already Exists");
         }
         else{
-            list.add(val);
-            mp.put(val, list.size()-1);
+            newList.add(val);
+            mp.put(val, newList.size()-1);
             return true;
         }
     }
     
     public boolean remove(int val) {
         if(mp.containsKey(val)){
-            int idx = mp.get(val);
-            int last = list.get(list.size() - 1);
+            int firstValue = mp.get(val);
+            int lastValue = newList.get(newList.size()-1);
 
-            list.set(idx, last);
-            mp.put(last, idx);
+            newList.set(firstValue, lastValue);
+            mp.put(lastValue, firstValue);
 
-            list.remove(list.size() - 1);
+            newList.remove(newList.size()-1);
             mp.remove(val);
+
             return true;
         }
         else{
@@ -38,9 +40,9 @@ class RandomizedSet {
     }
     
     public int getRandom() {
-        Random rand = new Random();
-        int val = rand.nextInt(list.size());
-        return list.get(val);
+        Random rnd = new Random();
+        int val = rnd.nextInt(newList.size());
+        return newList.get(val);
     }
 }
 
