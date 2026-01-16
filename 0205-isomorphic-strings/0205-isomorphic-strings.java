@@ -18,9 +18,7 @@ class Solution {
                }
             }
             else if(mp2.containsKey(ch2)){
-                if(mp2.get(ch2) != ch1){
-                    return false;
-                }
+                return false;
             }
 
             mp1.put(ch1, ch2);
