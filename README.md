@@ -12,6 +12,7 @@ Daily LeetCode practice activity tracker for year 2026
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0079-word-search) |
@@ -167,6 +168,7 @@ Daily LeetCode practice activity tracker for year 2026
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Linked List
 |  |
