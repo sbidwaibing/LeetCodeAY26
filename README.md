@@ -30,6 +30,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0994-rotting-oranges](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0994-rotting-oranges) |
 | [1169-invalid-transactions](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1169-invalid-transactions) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1480-running-sum-of-1d-array](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1480-running-sum-of-1d-array) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Two Pointers
 |  |
@@ -197,4 +198,8 @@ Daily LeetCode practice activity tracker for year 2026
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0207-course-schedule) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
