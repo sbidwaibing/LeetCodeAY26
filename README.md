@@ -61,6 +61,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0399-evaluate-division](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0399-evaluate-division) |
 | [0676-implement-magic-dictionary](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0676-implement-magic-dictionary) |
 | [1169-invalid-transactions](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1169-invalid-transactions) |
+| [3813-vowel-consonant-score](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/3813-vowel-consonant-score) |
 ## Backtracking
 |  |
 | ------- |
@@ -208,4 +209,8 @@ Daily LeetCode practice activity tracker for year 2026
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [3813-vowel-consonant-score](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/3813-vowel-consonant-score) |
 <!---LeetCode Topics End-->
