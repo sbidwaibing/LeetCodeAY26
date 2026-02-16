@@ -14,6 +14,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0001-two-sum](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0051-n-queens](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0079-word-search) |
@@ -65,6 +66,7 @@ Daily LeetCode practice activity tracker for year 2026
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
 ## Depth-First Search
