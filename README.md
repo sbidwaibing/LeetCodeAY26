@@ -55,6 +55,7 @@ Daily LeetCode practice activity tracker for year 2026
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
@@ -87,6 +88,7 @@ Daily LeetCode practice activity tracker for year 2026
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0063-unique-paths-ii) |
@@ -194,6 +196,7 @@ Daily LeetCode practice activity tracker for year 2026
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0203-remove-linked-list-elements) |
 ## Sliding Window
 |  |
@@ -211,6 +214,7 @@ Daily LeetCode practice activity tracker for year 2026
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0044-wildcard-matching) |
 ## Simulation
 |  |
 | ------- |
