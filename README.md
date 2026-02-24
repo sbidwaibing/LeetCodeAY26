@@ -74,6 +74,7 @@ Daily LeetCode practice activity tracker for year 2026
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0094-binary-tree-inorder-traversal) |
 | [0207-course-schedule](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0399-evaluate-division) |
 | [0676-implement-magic-dictionary](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0676-implement-magic-dictionary) |
@@ -192,6 +193,7 @@ Daily LeetCode practice activity tracker for year 2026
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0094-binary-tree-inorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
@@ -219,4 +221,12 @@ Daily LeetCode practice activity tracker for year 2026
 |  |
 | ------- |
 | [3813-vowel-consonant-score](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/3813-vowel-consonant-score) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
