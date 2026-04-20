@@ -75,6 +75,7 @@ Daily LeetCode practice activity tracker for year 2026
 | ------- | ------- |
 | [0079-word-search](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0100-same-tree/) | Easy |
 | [0207-course-schedule](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0399-evaluate-division) |
 | [0676-implement-magic-dictionary](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0676-implement-magic-dictionary) |
@@ -132,6 +133,7 @@ Daily LeetCode practice activity tracker for year 2026
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0100-same-tree/) | Easy |
 | [0207-course-schedule](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0399-evaluate-division) |
 | [0994-rotting-oranges](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0994-rotting-oranges) |
@@ -225,8 +227,10 @@ Daily LeetCode practice activity tracker for year 2026
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0100-same-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
