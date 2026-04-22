@@ -34,6 +34,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1480-running-sum-of-1d-array](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1480-running-sum-of-1d-array) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [3905-multi-source-flood-fill](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0079-word-search](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0079-word-search) |
 | [0840-magic-squares-in-grid](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0994-rotting-oranges) |
+| [3905-multi-source-flood-fill](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0207-course-schedule](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0399-evaluate-division) |
 | [0994-rotting-oranges](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0994-rotting-oranges) |
+| [3905-multi-source-flood-fill](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
