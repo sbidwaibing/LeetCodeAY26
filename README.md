@@ -13,6 +13,7 @@ Daily LeetCode practice activity tracker for year 2026
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0015-3sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0051-n-queens](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0053-maximum-subarray) |
@@ -40,6 +41,7 @@ Daily LeetCode practice activity tracker for year 2026
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0088-merge-sorted-array) |
@@ -48,6 +50,7 @@ Daily LeetCode practice activity tracker for year 2026
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0088-merge-sorted-array) |
 | [1169-invalid-transactions](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1169-invalid-transactions) |
 | [1387-sort-integers-by-the-power-value](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1387-sort-integers-by-the-power-value) |
