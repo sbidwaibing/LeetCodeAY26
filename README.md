@@ -178,6 +178,7 @@ Daily LeetCode practice activity tracker for year 2026
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0380-insert-delete-getrandom-o1) |
 | [0676-implement-magic-dictionary](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0676-implement-magic-dictionary) |
+| [0707-design-linked-list](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0707-design-linked-list/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +195,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0061-rotate-list](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0203-remove-linked-list-elements) |
 | [0445-add-two-numbers-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0445-add-two-numbers-ii) |
+| [0707-design-linked-list](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
