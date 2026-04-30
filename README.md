@@ -68,6 +68,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0676-implement-magic-dictionary](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0676-implement-magic-dictionary) |
 | [1169-invalid-transactions](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1169-invalid-transactions) |
 | [3813-vowel-consonant-score](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/3813-vowel-consonant-score) |
+| [3889-mirror-frequency-distance](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/3889-mirror-frequency-distance/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +136,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0676-implement-magic-dictionary](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0676-implement-magic-dictionary) |
 | [0840-magic-squares-in-grid](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0840-magic-squares-in-grid) |
 | [1169-invalid-transactions](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1169-invalid-transactions) |
+| [3889-mirror-frequency-distance](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/3889-mirror-frequency-distance/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,4 +246,8 @@ Daily LeetCode practice activity tracker for year 2026
 | [0094-binary-tree-inorder-traversal](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3889-mirror-frequency-distance](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/3889-mirror-frequency-distance/) | Medium |
 <!---LeetCode Topics End-->
