@@ -54,6 +54,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0088-merge-sorted-array](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0088-merge-sorted-array) |
 | [1169-invalid-transactions](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1169-invalid-transactions) |
 | [1387-sort-integers-by-the-power-value](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1387-sort-integers-by-the-power-value) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +138,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0840-magic-squares-in-grid](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0840-magic-squares-in-grid) |
 | [1169-invalid-transactions](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1169-invalid-transactions) |
 | [3889-mirror-frequency-distance](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/3889-mirror-frequency-distance/) | Medium |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,4 +252,9 @@ Daily LeetCode practice activity tracker for year 2026
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3889-mirror-frequency-distance](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/3889-mirror-frequency-distance/) | Medium |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 <!---LeetCode Topics End-->
