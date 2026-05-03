@@ -65,6 +65,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0139-word-break](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
 | [0205-isomorphic-strings](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0205-isomorphic-strings) |
+| [0394-decode-string](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0394-decode-string/) | Medium |
 | [0399-evaluate-division](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0399-evaluate-division) |
 | [0676-implement-magic-dictionary](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0676-implement-magic-dictionary) |
 | [1169-invalid-transactions](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1169-invalid-transactions) |
@@ -209,12 +210,14 @@ Daily LeetCode practice activity tracker for year 2026
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0094-binary-tree-inorder-traversal) |
+| [0394-decode-string](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0394-decode-string/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0203-remove-linked-list-elements) |
+| [0394-decode-string](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0394-decode-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
