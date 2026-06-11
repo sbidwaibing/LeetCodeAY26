@@ -204,6 +204,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0206-reverse-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0876-middle-of-the-linked-list) |
@@ -221,6 +222,7 @@ Daily LeetCode practice activity tracker for year 2026
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0394-decode-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
