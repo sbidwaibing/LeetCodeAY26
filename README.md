@@ -29,6 +29,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0219-contains-duplicate-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0399-evaluate-division) |
+| [0682-baseball-game](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0682-baseball-game/) | Easy |
 | [0840-magic-squares-in-grid](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0994-rotting-oranges) |
 | [1169-invalid-transactions](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1169-invalid-transactions) |
@@ -218,6 +219,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0094-binary-tree-inorder-traversal](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0394-decode-string/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0445-add-two-numbers-ii) |
+| [0682-baseball-game](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0682-baseball-game/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +248,7 @@ Daily LeetCode practice activity tracker for year 2026
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0682-baseball-game/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/3813-vowel-consonant-score) |
 ## Tree
 | Problem Name | Difficulty |
