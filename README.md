@@ -70,6 +70,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0394-decode-string](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0394-decode-string/) | Medium |
 | [0399-evaluate-division](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0399-evaluate-division) |
 | [0676-implement-magic-dictionary](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0676-implement-magic-dictionary) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1169-invalid-transactions](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1169-invalid-transactions) |
 | [3813-vowel-consonant-score](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/3813-vowel-consonant-score) |
 | [3889-mirror-frequency-distance](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/3889-mirror-frequency-distance/) | Medium |
@@ -220,6 +221,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0394-decode-string](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0394-decode-string/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0682-baseball-game/) | Easy |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
