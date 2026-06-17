@@ -24,6 +24,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0139-word-break](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0152-maximum-product-subarray) |
+| [0179-largest-number](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0219-contains-duplicate-ii) |
@@ -53,6 +54,7 @@ Daily LeetCode practice activity tracker for year 2026
 | ------- | ------- |
 | [0015-3sum](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0179-largest-number/) | Medium |
 | [1169-invalid-transactions](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1169-invalid-transactions) |
 | [1387-sort-integers-by-the-power-value](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1387-sort-integers-by-the-power-value) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
@@ -65,6 +67,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0079-word-search](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
+| [0179-largest-number](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0179-largest-number/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0394-decode-string](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0394-decode-string/) | Medium |
@@ -247,6 +250,7 @@ Daily LeetCode practice activity tracker for year 2026
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0044-wildcard-matching) |
+| [0179-largest-number](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0179-largest-number/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
