@@ -63,6 +63,7 @@ Daily LeetCode practice activity tracker for year 2026
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0139-word-break) |
@@ -104,6 +105,7 @@ Daily LeetCode practice activity tracker for year 2026
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0044-wildcard-matching](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0062-unique-paths) |
@@ -220,6 +222,7 @@ Daily LeetCode practice activity tracker for year 2026
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0394-decode-string/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0445-add-two-numbers-ii) |
