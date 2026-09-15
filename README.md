@@ -27,6 +27,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0179-largest-number](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0399-evaluate-division) |
@@ -56,6 +57,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0015-3sum](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0179-largest-number/) | Medium |
+| [0217-contains-duplicate](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0217-contains-duplicate/) | Easy |
 | [1169-invalid-transactions](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1169-invalid-transactions) |
 | [1387-sort-integers-by-the-power-value](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/1387-sort-integers-by-the-power-value) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
@@ -143,6 +145,7 @@ Daily LeetCode practice activity tracker for year 2026
 | [0140-word-break-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0140-word-break-ii) |
 | [0205-isomorphic-strings](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0217-contains-duplicate](https://github.com/sbidwaibing/LeetCodeAY26/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0380-insert-delete-getrandom-o1) |
 | [0676-implement-magic-dictionary](https://github.com/sbidwaibing/LeetCodeAY26/tree/master/0676-implement-magic-dictionary) |
